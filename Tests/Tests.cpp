@@ -1,7 +1,6 @@
 ﻿#include<iostream>
-#include<winuser.h>
+#include<windows.h>
 #include<vector>
-#include<winbase.h>
 #include<bitset>
 using namespace std;
 
